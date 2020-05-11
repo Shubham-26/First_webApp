@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0447251-b6f9-41de-ba3e-4f0fbd48f540" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Django_work/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Django_work/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Django_work/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +83,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="442" y="173" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1589102773433" />
+    <state x="349" y="0" key="CommitChangelistDialog2" timestamp="1589184040183">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="349" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1589184040183" />
     <state width="1345" height="188" key="GridCell.Tab.0.bottom" timestamp="1589083763807">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -99,10 +103,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1345" height="188" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589083763807" />
-    <state x="186" y="9" key="SettingsEditor" timestamp="1589176030429">
+    <state x="186" y="9" key="SettingsEditor" timestamp="1589184353570">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1589176030429" />
+    <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1589184353570" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1589100355045">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
