@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>This is home page </title>
+</head>
+<body>
+<h2> You are now on home page ..</h2>
+{{some_hidden}}
+<a href="{% url 'result' %}"><h2>Click here for result</h2></a>
+<form action="{% url 'result' %}"><br></br>
+    {% csrf_token %}
+    <textarea col="40" rows="10" name="article"></textarea>
+    <input type="submit" value="Submit" name="submit">
+
+
+
+</form>
+</body>
+</html>
